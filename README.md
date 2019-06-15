@@ -9,8 +9,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 [![Watch the video](http://www.torresdigital.tk/ide/icecoder.png)](https://www.facebook.com/torresdigital/videos/359915814721048/)
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ftorresdigital%2Fvideos%2F359915814721048%2F&show_text=0&width=560" width="560" height="350" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-
 About the Agency: We are a Brazilian Agency located in the heart of the City of Santa Maria - Rio Grande do Sul, which works with Web Development aimed at all market niches such as those of inputs, commodities, small, medium and large Tenants who wish to reach more Customers through of e-Commerce: Sites, Applications, Virtual Stores, Marketplaces, WordPress and Woocommerce, integrated with the Main Cards and Payment Solutions of Brazil and the World; such as Cielo, CyberSource, PagSeguro, Stripe, Vindi, MasterCard, Visa, American Express, others.
 
 
