@@ -24,7 +24,7 @@ www.torresdigital.tk * Menos é mais.
 
 = Ownership and licensing =
 
-Torres Digital 2019 ICECOde Theme https://www.facebook.com/torresdigital/
+Torres Digital 2019 ICECOder Theme https://www.facebook.com/torresdigital/
 Copyright 2017, Torres Digital -Sites → Lojas Virtuais e e-Commerce, https://www.facebook.com/torresdigital/
 
 This theme is free software: except as may be stated below (if at all), you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 2 of the License or (at your option) any later version.
