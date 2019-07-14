@@ -4,8 +4,8 @@ Version: 2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-== Description == 
-2019 Torres Digital ICECoder Theme é um Tema para o ICECoder IDE - 
+== Description ==
+2019 Torres Digital ICECoder Theme é um Tema para o ICECoder IDE -
 
 [![Watch the video](http://www.torresdigital.tk/ide/icecoder.png)](https://www.facebook.com/torresdigital/videos/359915814721048/)
 
@@ -42,5 +42,3 @@ You can contact us at contato@torresdigital.tk
 Initial release
 
 == Notes ==
-
-[You can add further notes if you like.]
