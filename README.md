@@ -1,4 +1,4 @@
-=== 2019 Torres Digital ICECoder Theme ===
+=== 2019 Torres Digital ICECoder Theme === <br><br>
 Contributors: Torres Digital -Sites → Lojas Virtuais e e-Commerce
 Version: 2.0
 License: GPLv2 or later
