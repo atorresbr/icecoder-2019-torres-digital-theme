@@ -1,5 +1,5 @@
 === 2019 Torres Digital ICECoder Theme === <br><br>
-Contributors: Torres Digital -Sites → Lojas Virtuais e e-Commerce
+Contributors: <a href="https://torresdigital.com.br/" tareget="_blank">Torres Digital -Sites → Lojas Virtuais e e-Commerce</a>
 Version: 2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -7,7 +7,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 == Description ==
 2019 Torres Digital ICECoder Theme é um Tema para o ICECoder IDE -
 
-[![Watch the video](http://www.torresdigital.tk/ide/icecoder.png)](https://www.facebook.com/torresdigital/videos/359915814721048/)
+[![Watch the video](http://www.torresdigital.tk/ide/icecoder.png)](https://www.facebook.com/torresdigital/videos/1370285286677688/)
 
 About the Agency: We are a Brazilian Agency located in the heart of the City of Santa Maria - Rio Grande do Sul, which works with Web Development aimed at all market niches such as those of inputs, commodities, small, medium and large Tenants who wish to reach more Customers through of e-Commerce: Sites, Applications, Virtual Stores, Marketplaces, WordPress and Woocommerce, integrated with the Main Cards and Payment Solutions of Brazil and the World; such as Cielo, CyberSource, PagSeguro, Stripe, Vindi, MasterCard, Visa, American Express, others.
 
