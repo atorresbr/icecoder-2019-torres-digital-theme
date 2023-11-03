@@ -1,5 +1,5 @@
 === 2019 Torres Digital ICECoder Theme === <br><br>
-Contributors: <a href="https://torresdigital.com.br/" target="_blank">Torres Digital -Sites → Lojas Virtuais e e-Commerce</a>
+Contributors: <a href="https://torresdigital.com.br/" target="blank_">Torres Digital -Sites → Lojas Virtuais e e-Commerce</a>
 Version: 2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
