@@ -1,15 +1,22 @@
-=== 2019 Torres Digital ICECoder Theme === <br><br>
-Contributors: <a href="https://torresdigital.com.br/" target="blank_">Torres Digital -Sites → Lojas Virtuais e e-Commerce</a>
-Version: 2.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+# === 2019 Torres Digital ICECoder Theme === 
+Contributors: <a href="https://torresdigital.com.br/">Torres Digital -Sites → Lojas Virtuais e e-Commerce</a><br>
+Version: 2.0 <br>
+License: GPLv2 or later <br>
+License URI: http://www.gnu.org/licenses/gpl-2.0.html <br>
 
-== Description ==
-2019 Torres Digital ICECoder Theme é um Tema para o ICECoder IDE -
+
+== Description ==  <br>
+2019 Torres Digital ICECoder Theme é um Tema para o ICECoder IDE.  <br>
 
 [![Watch the video](http://www.torresdigital.tk/ide/icecoder.png)](https://www.facebook.com/torresdigital/videos/1370285286677688/)
 
-About the Agency: We are a Brazilian Agency located in the heart of the City of Santa Maria - Rio Grande do Sul, which works with Web Development aimed at all market niches such as those of inputs, commodities, small, medium and large Tenants who wish to reach more Customers through of e-Commerce: Sites, Applications, Virtual Stores, Marketplaces, WordPress and Woocommerce, integrated with the Main Cards and Payment Solutions of Brazil and the World; such as Cielo, CyberSource, PagSeguro, Stripe, Vindi, MasterCard, Visa, American Express, others.
+#### 1. ![Alt Text](https://raw.githubusercontent.com/atorresbr/torres-digital-icecoder-ide-wp-plugin/master/css/img/1.png)
+#### 2. ![Alt Text](https://raw.githubusercontent.com/atorresbr/torres-digital-icecoder-ide-wp-plugin/master/css/img/2.png) 
+#### 3. ![Alt Text](https://raw.githubusercontent.com/atorresbr/torres-digital-icecoder-ide-wp-plugin/master/css/img/3.png)
+#### 4. ![Alt Text](https://raw.githubusercontent.com/atorresbr/torres-digital-icecoder-ide-wp-plugin/master/css/img/4.png)
+#### 5. ![Alt Text](https://raw.githubusercontent.com/atorresbr/torres-digital-icecoder-ide-wp-plugin/master/css/img/5.png)
+
+About the Agency: We are a Brazilian Agency located in the heart of the City of Santa Maria - Rio Grande do Sul, which works with Web Development aimed at all market niches such as those of inputs, commodities, small, medium and large Tenants who wish to reach more Customers through of e-Commerce: <br> Sites, Applications, Virtual Stores, Marketplaces, WordPress and Woocommerce, integrated with the Main Cards and Payment Solutions of Brazil and the World; such as Cielo, CyberSource, PagSeguro, Stripe, Vindi, MasterCard, Visa, American Express, others.
 
 
  About the Agency: Somos uma Agência Gaúcha que trabalha com Desenvolvimento Web voltado para todos os Nichos do Mercado tais como os de insumos, commodities, pequenos, médios e grandes Lojistas que desejam alcançar mais Clientes através do e-Commerce: Sites, Aplicativos, Lojas Virtuais, Marketplaces, WordPress e Woocommerce, integrados com os Principais Cartões e Soluções de Pagamentos do Brasil e do Mundo; tais como Cielo, CyberSource, PagSeguro, Stripe, Vindi, MasterCard, Visa, American Express, outros.
